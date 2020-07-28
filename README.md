@@ -3,7 +3,7 @@
 
 Xamarin Developer | Blogger | Author | Speaker | [#XamarinMonkeys](https://twitter/XamarinMonkeys) | #CodeWithMonkey :monkey:
 
-- :baby_chick: Twitter : [@susairajs18](https://twitter/susairajs18)
+- :baby_chick: Twitter : [@susairajs18](https://twitter.com/susairajs18)
 
 - :information_source: Linkedin : [Delpin Susai Raj](https://www.linkedin.com/in/delpinsusairaj/)
 
